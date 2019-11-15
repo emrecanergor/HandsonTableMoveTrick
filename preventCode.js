@@ -1,3 +1,4 @@
+//using handsontable version is 7.2.1 
 //open a div with 'hot' id in html body tag
 
 var hotElement = document.querySelector('#hot'), hot, hotSettings;
